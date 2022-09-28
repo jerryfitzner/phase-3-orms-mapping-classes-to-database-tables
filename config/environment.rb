@@ -1,5 +1,8 @@
-require 'bundler'
-Bundler.require
+# require 'bundler'
+# Bundler.require
+
+require 'sqlite3'
+require 'pry'
 
 require_relative '../lib/song'
 
